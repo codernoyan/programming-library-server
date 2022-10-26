@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "languageName": "JavaScript",
+    "price": 48,
+    "about": "JavaScript is a programming language that allows web pages to be dynamic. It is an interpreted language, which means that it doesn't need to be compiled: instead the interpreter (such as a web browser) will parse the code and turn it into code that their machine can run - suitable for creating dynamic websites that can run on any browser on any computer. JavaScript is not only used in the browser. JavaScript runtime's, such as Node.js and Deno allow you to write, launch and serve requests on webservers. Other frameworks, such as Electron use JavaScript to write cross-platform applications for Windows, Linux and macOS. Mobile app development is also a possibility, utilizing React Native, Ionic and various others, with Expo now allowing to target Android, iOS and the web, all at once. Starting with the 6th edition (commonly known as ES2015 or ES6) in 2015, a new edition of the standard will be released each year. The 6th edition was a major update that brought many enhancements over ES5, including notably template strings, expressive arrow function syntax, and cleaner syntax for defining classes.",
+    "keyFeatures": [
+      "Runs almost everywhere",
+      "Use any programming style",
+      "No types required",
+      "Concurrency is safe",
+      "Designed by a committee",
+      "Largest package registry"
+    ],
+    "img": "https://www.codecademy.com/resources/blog/content/images/2021/05/what-is-javascript-used-for-1.png"
+  },
+  {
+    "id": 2,
+    "languageName": "Dart",
+    "price": 39,
+    "about": "Dart brings object-oriented and typing together with the flexibility that JavaScript is known for. It is designed to simplify common programming tasks. In recent years, its popularity in the software development community has grown tremendously. The primary concepts baked into the making of the language were: It is simple, object-oriented, and familiar, The language derives its syntax from Java and JavaScript; as well as Smalltalk, It has a built-in concurrency model that is easy to learn and use, It provides tools out of the box to help development efforts, It provides tools out of the box to help development efforts, It is architecture-neutral and portable, It executes with high performance for practical applications and not just benchmarks. Dart code can be transpiled into JavaScript for web development, typically using AngularDart, Application servers can be written using Dart, Cross-platform mobile application development can be achieved through a popular framework called Flutter, Google Firebase APIs can be integrated into Dart apps using the libraries written by the Firebase team.",
+    "keyFeatures": [
+      "Web and Mobile apps",
+      "iOS and Android apps",
+      "Countless Packages",
+      "Highly-organized Code",
+      "Easy to Learn"
+    ],
+    "img": "https://www.extremetech.com/wp-content/uploads/2011/10/dart-logo-banner1-348x196.jpg"
+  },
+  {
+    "id": 3,
+    "languageName": "Go",
+    "price": 56,
+    "about": "Fans of Go (called gophers) describe Go as having the expressiveness of dynamic languages like Python or Ruby, with the performance of compiled languages like C or C++. The language is open source, and was started by engineers at Google. It's written using a C-style syntax, has statically typed variables, manages memory using garbage collection, and is compiled into stand-alone executables. Go is noted for the concurrent programming features built into the language core, the networking packages in the standard library (such as a web server), fast compilation and execution speed. Its simple, minimalistic and consistent language design make for a delightful experience, while the abundant and thoughtful tooling addresses traditional problems such as consistent formatting and documentation. The home page for Go is go.dev, and there is an excellent interactive tutorial at tour.go.dev.",
+    "keyFeatures": [
+      "Speed",
+      "Concurrency",
+      "Statically Typed",
+      "Portable",
+      "Minimal",
+      "Modern"
+    ],
+    "img": "https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png"
+  },
+  {
+    "id": 4,
+    "languageName": "Python",
+    "price": 39,
+    "about": "Python is a dynamic and strongly typed object-oriented programming language. It employs both duck typing and gradual typing (via type hints). It supports multiple programming paradigms including imperative (object-oriented, procedural) and declarative (functional, concurrent) flavors. But do not be fooled: while programming across paradigms is fully supported, everything in Python is an object. Python was created by Guido van Rossum and first released in 1991. The Python Software Foundation manages and directs resources for Python and CPython development and receives proposals for changes to the language from members of the community via Python Enhancement Proposals or PEPs. It is considered a strong language for programmers starting their journey, with a welcoming community and many resources available to learners of all levels and persuasions. Python puts a strong emphasis on code readability and (similar to Haskell) uses significant indentation to denote function, method, and class definitions. Code can be written and executed from the command line, in an interactive interpreter session, in JupyterLab (Jupyter notebook), or a wide variety of code editors and IDEs. Python is used extensively in scientific computing, finance, games, networking, internet development, and in assembling pipelines of other programs.",
+    "keyFeatures": [
+      "Batteries Included",
+      "Easy",
+      "Extensible",
+      "Flexible",
+      "Multi-paradigm",
+      "Ubiquitous"
+    ],
+    "img": "https://sistemasgeniales.com/wp-content/uploads/2021/12/PYTHON.png"
+  },
+  {
+    "id": 5,
+    "languageName": "Ruby",
+    "price": 44,
+    "about": "Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. Ruby was created as a language of careful balance. Its creator, Yukihiro “Matz” Matsumoto, blended parts of his favorite languages (Perl, Smalltalk, Eiffel, Ada, and Lisp) to form a new language that balanced functional programming with imperative programming. Building on this, he adds: Ruby is simple in appearance, but is very complex inside, just like our human body.",
+    "keyFeatures": [
+      "Developer happiness",
+      "Metaprogramming magic",
+      "Garbage Collection",
+      "Large standard library",
+      "Flexible package manager",
+      "Strong, dynamic typing"
+    ],
+    "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190902124355/ruby-programming-language.png"
+  },
+  {
+    "id": 6,
+    "languageName": "Rust",
+    "price": 44,
+    "about": "Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. It aims to bring modern language design and an advanced type system to systems programming. Rust does not use a garbage collector, using advanced static analysis to provide deterministic drops instead. It accomplishes this via the concept of ownership. Rust's core and the standard library are intentionally minimal; batteries are not included. Rustaceans are instead encouraged to add libraries, called crates, to the language by sharing them on crates.io. Rust is most frequently used for applications where speed, performance and stability are essential. The Awesome Rust list collects examples of Rust projects, which include CLI tools, ORMs, operating systems and games. Regardless of what you build in Rust, it will be fast and memory safe!",
+    "keyFeatures": [
+      "Performance",
+      "Reliability",
+      "Productivity",
+      "Cargo Package Manager",
+      "Write Once, Run Anywhere",
+      "Low Level Performance In High Level Language"
+    ],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/800px-Rust_programming_language_black_logo.svg.png"
+  }  
+]
