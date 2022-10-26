@@ -13,10 +13,12 @@ app.get('/', (req, res) => {
   res.send('programming library server is running');
 });
 
+// all courses
 app.get('/courses', (req, res) => {
   res.send(courses);
 });
 
+// single course data using id route
 app.get('/courses/:id', (req, res) => {
   const id = Number(req.params.id);
   const singleCourseDetails = courseDetails.find(details => details.id === id);
