@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "courseName": "JavaScript",
+    "courseStyle": "Beginner to Advance",
+    "modules": 15
+  },
+  {
+    "id": 2,
+    "courseName": "Dart",
+    "courseStyle": "Beginner to Advance",
+    "modules": 11
+  },
+  {
+    "id": 3,
+    "courseName": "Go",
+    "courseStyle": "Beginner to Advance",
+    "modules": 13
+  },
+  {
+    "id": 4,
+    "courseName": "Python",
+    "courseStyle": "Beginner to Advance",
+    "modules": 17
+  },
+  {
+    "id": 5,
+    "courseName": "Ruby",
+    "courseStyle": "Beginner to Advance",
+    "modules": 16
+  },
+  {
+    "id": 6,
+    "courseName": "Rust",
+    "courseStyle": "Beginner to Advance",
+    "modules": 25
+  }
+]
