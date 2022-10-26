@@ -5,6 +5,8 @@
     "courseStyle": "Beginner to Advance",
     "modules": 15,
     "duration": "14h 48mins",
+    "rating": 5.0,
+    "enrolled": 460
   },
   {
     "id": 2,
@@ -12,6 +14,8 @@
     "courseStyle": "Beginner to Advance",
     "modules": 11,
     "duration": "14h 48mins",
+    "rating": 4.8,
+    "enrolled": 250
   },
   {
     "id": 3,
@@ -19,6 +23,8 @@
     "courseStyle": "Beginner to Advance",
     "modules": 13,
     "duration": "14h 48mins",
+    "rating": 4.7,
+    "enrolled": 298
   },
   {
     "id": 4,
@@ -26,6 +32,8 @@
     "courseStyle": "Beginner to Advance",
     "modules": 17,
     "duration": "14h 48mins",
+    "rating": 4.8,
+    "enrolled": 189
   },
   {
     "id": 5,
@@ -33,6 +41,8 @@
     "courseStyle": "Beginner to Advance",
     "modules": 16,
     "duration": "14h 48mins",
+    "rating": 5.0,
+    "enrolled": 350
   },
   {
     "id": 6,
@@ -40,5 +50,7 @@
     "courseStyle": "Beginner to Advance",
     "modules": 25,
     "duration": "14h 48mins",
+    "rating": 4.6,
+    "enrolled": 260
   }
 ]
