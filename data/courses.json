@@ -6,51 +6,57 @@
     "modules": 15,
     "duration": "14h 48mins",
     "rating": 5.0,
-    "enrolled": 460
+    "enrolled": 460,
+    "img": "https://www.codecademy.com/resources/blog/content/images/2021/05/what-is-javascript-used-for-1.png"
   },
   {
     "id": 2,
     "courseName": "Dart",
     "courseStyle": "Beginner to Advance",
     "modules": 11,
-    "duration": "14h 48mins",
+    "duration": "10h 54mins",
     "rating": 4.8,
-    "enrolled": 250
+    "enrolled": 250,
+    "img": "https://www.extremetech.com/wp-content/uploads/2011/10/dart-logo-banner1-348x196.jpg"
   },
   {
     "id": 3,
     "courseName": "Go",
     "courseStyle": "Beginner to Advance",
     "modules": 13,
-    "duration": "14h 48mins",
+    "duration": "8h 56mins",
     "rating": 4.7,
-    "enrolled": 298
+    "enrolled": 298,
+    "img": "https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png"
   },
   {
     "id": 4,
     "courseName": "Python",
     "courseStyle": "Beginner to Advance",
     "modules": 17,
-    "duration": "14h 48mins",
+    "duration": "9h 49mins",
     "rating": 4.8,
-    "enrolled": 189
+    "enrolled": 189,
+    "img": "https://sistemasgeniales.com/wp-content/uploads/2021/12/PYTHON.png"
   },
   {
     "id": 5,
     "courseName": "Ruby",
     "courseStyle": "Beginner to Advance",
     "modules": 16,
-    "duration": "14h 48mins",
+    "duration": "18h 25mins",
     "rating": 5.0,
-    "enrolled": 350
+    "enrolled": 350,
+    "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190902124355/ruby-programming-language.png"
   },
   {
     "id": 6,
     "courseName": "Rust",
     "courseStyle": "Beginner to Advance",
     "modules": 25,
-    "duration": "14h 48mins",
+    "duration": "25h 36mins",
     "rating": 4.6,
-    "enrolled": 260
+    "enrolled": 260,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/800px-Rust_programming_language_black_logo.svg.png"
   }
 ]
